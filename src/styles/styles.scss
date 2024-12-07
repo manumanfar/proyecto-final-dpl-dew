@@ -1,0 +1,17 @@
+$theme-colors: (
+  "primary": #127088,
+  "secondary": #5a6462,
+  "success": #098b5a,
+  "info": #1e6cfd,
+  "warning": #e29e1f,
+  "danger": #dd1a1a,
+  "light": #5ed485,
+  "dark": #000000,
+  "white": white,
+  "difumin": #dad8d8,
+  "fluor": #35d1f8,
+  "fluorx": #04be04,
+  "insta": #b3006e,
+);
+
+@import "node_modules/bootstrap/scss/bootstrap.scss";
